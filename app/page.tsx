@@ -220,7 +220,7 @@ export default function EverLeaseLanding() {
               <a href="tel:0956064990" className="block w-full">
                 <Button
                   size="lg"
-                  className="bg-yellow-600 hover:bg-yellow-700 text-lg px-8 py-6 text-white"
+                  className="w-full bg-yellow-600 hover:bg-yellow-700 text-lg px-8 py-6 text-white"
                 >
                   จองบริการเลย
                 </Button>
@@ -228,7 +228,7 @@ export default function EverLeaseLanding() {
               <Button
                 size="lg"
                 variant="outline"
-                className="text-lg px-8 py-6 border-yellow-600 text-yellow-700"
+                className="w-full sm:w-auto text-lg px-8 py-6 border-yellow-600 text-yellow-700"
                 onClick={() =>
                   window.open("https://line.me/ti/p/0956064990", "_blank")
                 }
@@ -236,6 +236,7 @@ export default function EverLeaseLanding() {
                 แอด LINE
               </Button>
             </div>
+
             <div className="flex items-center space-x-6 text-sm text-gray-600">
               <div className="flex items-center space-x-2">
                 <CheckCircle className="w-4 h-4 text-green-600" />
