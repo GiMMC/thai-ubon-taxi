@@ -480,6 +480,18 @@ export default function EverLeaseLanding() {
                 ขอบคุณที่ไว้วางใจแท็กซี่อุบลครับ
               </p>
             </div>
+
+            <div className="min-w-[300px] max-w-sm snap-center bg-gray-100 rounded-2xl shadow-md p-4 flex-shrink-0">
+              <img
+                src="https://scontent.fcgk25-1.fna.fbcdn.net/v/t39.30808-6/519682866_122141462882783761_5147906355185425107_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=WuYmuU7hbhoQ7kNvwFbZnNQ&_nc_oc=Adm2magplRIotNgwPdxMD5AfbfWUo6PPm7iI2zKrdfmggPKwiAcR7kAZ0GmLwgMJ0_k&_nc_zt=23&_nc_ht=scontent.fcgk25-1.fna&_nc_gid=_C-qwg7FGrq3sui7WdbR3Q&oh=00_AfQV8fuvduKiNvMo3V90FIyFf4QNpX5cp7WlyHSK7SL7DA&oe=68912B52"
+                alt="Activity 4"
+                className="rounded-xl object-cover w-full h-48 mb-4"
+              />
+              <p className="text-sm text-gray-700">
+                🙏 เช้านี้ไปรับลูกค้าร่วมทำบุญตักบาตร <br />
+                บริการด้วยใจ แท็กซี่อุบลพร้อมพาไปทุกกิจกรรม 💛
+              </p>
+            </div>
           </div>
         </div>
       </section>
