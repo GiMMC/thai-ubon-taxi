@@ -217,7 +217,7 @@ export default function EverLeaseLanding() {
               095-6064990 หรือ 084-3269865
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
-              <a href="tel:0956064990">
+              <a href="tel:0956064990" className="block w-full">
                 <Button
                   size="lg"
                   className="bg-yellow-600 hover:bg-yellow-700 text-lg px-8 py-6 text-white"
@@ -230,7 +230,7 @@ export default function EverLeaseLanding() {
                 variant="outline"
                 className="text-lg px-8 py-6 border-yellow-600 text-yellow-700"
                 onClick={() =>
-                  window.open("https://line.me/ti/p/Plonlala", "_blank")
+                  window.open("https://line.me/ti/p/0956064990", "_blank")
                 }
               >
                 แอด LINE
