@@ -217,12 +217,14 @@ export default function EverLeaseLanding() {
               095-6064990 หรือ 084-3269865
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
-              <Button
-                size="lg"
-                className="bg-yellow-600 hover:bg-yellow-700 text-lg px-8 py-6 text-white"
-              >
-                จองบริการเลย
-              </Button>
+              <a href="tel:0956064990">
+                <Button
+                  size="lg"
+                  className="bg-yellow-600 hover:bg-yellow-700 text-lg px-8 py-6 text-white"
+                >
+                  จองบริการเลย
+                </Button>
+              </a>
               <Button
                 size="lg"
                 variant="outline"
