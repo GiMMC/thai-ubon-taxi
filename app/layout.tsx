@@ -4,8 +4,8 @@ import { GeistMono } from "geist/font/mono";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Taxi Thai Ubon Ratchathani",
-  description: "Taxi service in Ubon Ratchathani, Thailand",
+  title: "แท็กซี่ไทย อุบลราชธานี",
+  description: "บริการแท็กซี่ในจังหวัดอุบลราชธานี ประเทศไทย",
 };
 
 export default function RootLayout({
