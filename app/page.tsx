@@ -190,8 +190,8 @@ export default function EverLeaseLanding() {
               />
             </div>
             <div>
-              <h1 className="text-xl font-bold text-blue-900">Thai Taxi</h1>
-              <p className="text-xs text-gray-600">Ubon Ratchathani</p>
+              <h1 className="text-xl font-bold text-blue-900">แท็กซี่ไทย</h1>
+              <p className="text-xs text-gray-600">อุบลราชธานี</p>
             </div>
           </div>
         </div>
@@ -443,19 +443,6 @@ export default function EverLeaseLanding() {
             Our Activities
           </h2>
           <div className="flex space-x-4 overflow-x-auto snap-x snap-mandatory scrollbar-hide">
-            {/* Activity 1 */}
-            <div className="min-w-[300px] max-w-sm snap-center bg-gray-100 rounded-2xl shadow-md p-4 flex-shrink-0">
-              <img
-                src="https://scontent.fcgk25-1.fna.fbcdn.net/v/t39.30808-6/524025124_122142768452783761_7629571483656569011_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=8FruFYl8UBQQ7kNvwFNqfpX&_nc_oc=AdnExt8UvBELYCAnLuUCs1TAk9fvt2ICnJPcfP88HCfmmvRkc3nHir7fUZi1kdlqomo&_nc_zt=23&_nc_ht=scontent.fcgk25-1.fna&_nc_gid=giJthPMNilOkg6MMQxNCBg&oh=00_AfTqX_V-Sbo4Sk02pSBGC3Udr1Dx0siXpAhTaFlcqMywAQ&oe=6891304D"
-                alt="Activity 1"
-                className="rounded-xl object-cover w-full h-48 mb-4"
-              />
-              <p className="text-sm text-gray-700">
-                🚕 ส่งลูกค้าถึงเชียงใหม่แล้วอย่างปลอดภัย 🙏 <br />
-                สนใจใช้บริการแท็กซี่อุบลติดต่อทางไลน์ได้เลย 📲
-              </p>
-            </div>
-
             {/* Activity 2 */}
             <div className="min-w-[300px] max-w-sm snap-center bg-gray-100 rounded-2xl shadow-md p-4 flex-shrink-0">
               <img
@@ -471,18 +458,6 @@ export default function EverLeaseLanding() {
             </div>
 
             {/* Activity 3 */}
-            <div className="min-w-[300px] max-w-sm snap-center bg-gray-100 rounded-2xl shadow-md p-4 flex-shrink-0">
-              <img
-                src="https://scontent.fcgk40-1.fna.fbcdn.net/v/t39.30808-6/522970488_122142222752783761_5278293327656430270_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=j3oCv1ZbiXgQ7kNvwGb9bkb&_nc_oc=AdkWRLsVMrY7kipzPgU1M6EwldMPnxzxjb6gPp1BeI9xKrLvyAvQhy84sVTh8h7ZRHY&_nc_zt=23&_nc_ht=scontent.fcgk40-1.fna&_nc_gid=igk1gjyvTIU7K3LH2pB5Tw&oh=00_AfTk33m2PER_31ll5dEOcgJRCxmZPyZGHO0_ltLRtuBPxg&oe=68915F36"
-                alt="Activity 3"
-                className="rounded-xl object-cover w-full h-48 mb-4"
-              />
-              <p className="text-sm text-gray-700">
-                ⛩️ ส่งลูกค้าถึงศาลากลางจังหวัดอุบลราชธานี
-                <br />
-                ขอบคุณที่ไว้วางใจแท็กซี่อุบลครับ
-              </p>
-            </div>
 
             <div className="min-w-[300px] max-w-sm snap-center bg-gray-100 rounded-2xl shadow-md p-4 flex-shrink-0">
               <img
