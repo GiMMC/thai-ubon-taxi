@@ -4,8 +4,9 @@ import { GeistMono } from "geist/font/mono";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "แท็กซี่ไทย อุบลราชธานี",
-  description: "บริการแท็กซี่ในจังหวัดอุบลราชธานี ประเทศไทย",
+  title: "แท็กซี่อุบล - บริการแท็กซี่ออนไลน์",
+  description:
+    "บริการแท็กซี่ในจังหวัดอุบลราชธานี ประเทศไทย โทรเลย 084-326-9865",
 };
 
 export default function RootLayout({
