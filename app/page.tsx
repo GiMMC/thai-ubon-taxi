@@ -182,7 +182,7 @@ export default function EverLeaseLanding() {
           <div className="flex items-center space-x-2">
             <div className="w-8 h-8 bg-blue-900 rounded-lg flex items-center justify-center">
               <Image
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEPwFVMXz4G-AfX7NzIoQgFUNAwDqAisrlSg&s"
+                src="https://content.jdmagicbox.com/comp/ernakulam/i9/0484px484.x484.120712144351.x2i9/catalogue/ericsson-india-pvt-ltd-ernakulam-0c57psbk47-250.jpg"
                 alt=""
                 width={32}
                 height={32}
